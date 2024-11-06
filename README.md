@@ -26,7 +26,7 @@ Before running the project, ensure you have the following installed:
 Clone the repository and install the following dependencies:
 
 ```bash
-pip install fastapi uvicorn requests
+pip install fastapi uvicorn requests pydantic pandas
 ```
 
 ## Running the project
